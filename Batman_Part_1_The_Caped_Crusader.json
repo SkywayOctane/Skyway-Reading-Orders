@@ -1,9 +1,9 @@
 {
   "title": "Batman Part 1 - The Caped Crusader",
   "description": "",
-  "artist": "Various",
-  "author": "Various",
-  "cover": "",
+  "artist": "",
+  "author": "DC Comics",
+  "cover": "https://cdn.imgchest.com/files/a82299887b1b.jpg",
   "chapters": {
     "001": {
       "title": "Batman Year One",
