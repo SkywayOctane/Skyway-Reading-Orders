@@ -54,10 +54,94 @@
       "volume": "007"
     },
     "001": {
-      "title": "",
-      "last_updated": "1782711264",
+      "title": "Batman Year One",
+      "last_updated": "1782711841",
       "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b9pxvvy5"
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqpqdve72"
+      }
+    },
+    "004": {
+      "title": "Batman & the Monster Men #3",
+      "last_updated": "1782711650",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrk2dvk7p"
+      }
+    },
+    "002": {
+      "title": "Batman & the Monster Men #1",
+      "last_updated": "1782711652",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd9zpxd7k"
+      }
+    },
+    "003": {
+      "title": "Batman & the Monster Men #2",
+      "last_updated": "1782711654",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7mpn29q7d"
+      }
+    },
+    "005": {
+      "title": "Batman & the Monster Men #4",
+      "last_updated": "1782711691",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyekvpaxyd"
+      }
+    },
+    "006": {
+      "title": "Batman & the Monster Men #5",
+      "last_updated": "1782711695",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny8nzlvpyb"
+      }
+    },
+    "008": {
+      "title": "Batman and the Mad Monk #1",
+      "last_updated": "1782711709",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxpvgrm4q"
+      }
+    },
+    "007": {
+      "title": "Batman & the Monster Men #6",
+      "last_updated": "1782711715",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45v8dpxy5"
+      }
+    },
+    "009": {
+      "title": "Batman and the Mad Monk #2",
+      "last_updated": "1782711716",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4no2lww7n"
+      }
+    },
+    "010": {
+      "title": "Batman and the Mad Monk #3",
+      "last_updated": "1782711729",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/dl7ppqze87o"
+      }
+    },
+    "011": {
+      "title": "Batman and the Mad Monk #4",
+      "last_updated": "1782711732",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/md7opljwayp"
+      }
+    },
+    "012": {
+      "title": "Batman and the Mad Monk #5",
+      "last_updated": "1782711732",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kprwmk48"
+      }
+    },
+    "013": {
+      "title": "Batman and the Mad Monk #6",
+      "last_updated": "1782711744",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jp3wk548"
       }
     }
   }
