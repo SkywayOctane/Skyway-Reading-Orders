@@ -1,8 +1,8 @@
 {
   "title": "Batman Part 1 - The Caped Crusader",
   "description": "",
-  "artist": "",
-  "author": "DC Comics",
+  "artist": "Various",
+  "author": "Various",
   "cover": "https://cdn.imgchest.com/files/a82299887b1b.jpg",
   "chapters": {
     "001": {
@@ -94,6 +94,13 @@
       "last_updated": "1782711744",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jp3wk548"
+      }
+    },
+    "014": {
+      "title": "The Man Who Laughs",
+      "last_updated": "1782860203",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45vde6gy5"
       }
     }
   }
