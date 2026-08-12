@@ -7,11 +7,305 @@
   "chapters": {
     "001": {
       "title": "The New Teen Titans Vol.1 #1",
-      "volume": "",
       "last_updated": "1786508020",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pmr83j7o"
       }
+    },
+    "002": {
+      "title": "The New Teen Titans Vol.1 #2",
+      "last_updated": "1786508800",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny8krezpyb"
+      }
+    },
+    "003": {
+      "title": "The New Teen Titans Vol.1 #3",
+      "last_updated": "1786508795",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87w589637x"
+      }
+    },
+    "004": {
+      "title": "The New Teen Titans Vol.1 #4",
+      "last_updated": "1786508799",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zvl59gyj"
+      }
+    },
+    "005": {
+      "title": "The New Teen Titans Vol.1 #5",
+      "last_updated": "1786508798",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/lqye5wd3xyd"
+      }
+    },
+    "006": {
+      "title": "The New Teen Titans Vol.1 #6",
+      "last_updated": "1786508839",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9249bm2avyn"
+      }
+    },
+    "007": {
+      "title": "The New Teen Titans Vol.1 #7",
+      "last_updated": "1786508845",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4ndqv2wyn"
+      }
+    },
+    "008": {
+      "title": "The New Teen Titans Vol.1 #8",
+      "last_updated": "1786508849",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7bzrlpk75"
+      }
+    },
+    "009": {
+      "title": "The New Teen Titans Vol.1 #9",
+      "last_updated": "1786508853",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/md7ordala7p"
+      }
+    },
+    "010": {
+      "title": "The New Teen Titans Vol.1 #10",
+      "last_updated": "1786508879",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4j25e3578"
+      }
+    },
+    "011": {
+      "title": "The New Teen Titans Vol.1 #11",
+      "last_updated": "1786508890",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd83qzd4k"
+      }
+    },
+    "012": {
+      "title": "The New Teen Titans Vol.1 #12",
+      "last_updated": "1786508899",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrw3a2k7p"
+      }
+    },
+    "013": {
+      "title": "The New Teen Titans Vol.1 #13",
+      "last_updated": "1786508900",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7mqjanqyd"
+      }
+    },
+    "014": {
+      "title": "The New Teen Titans Vol.1 #14",
+      "last_updated": "1786508921",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87w589v37x"
+      }
+    },
+    "015": {
+      "title": "The New Teen Titans Vol.1 #15",
+      "last_updated": "1786508933",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zvl53gyj"
+      }
+    },
+    "016": {
+      "title": "The New Teen Titans Vol.1 #16",
+      "last_updated": "1786508929",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny8krelpyb"
+      }
+    },
+    "017": {
+      "title": "The New Teen Titans Vol.1 #17",
+      "last_updated": "1786508953",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45bjmdx45"
+      }
+    },
+    "018": {
+      "title": "The New Teen Titans Vol.1 #18",
+      "last_updated": "1786508964",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxa59gm4q"
+      }
+    },
+    "019": {
+      "title": "The New Teen Titans Vol.1 #19",
+      "last_updated": "1786508982",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kl2awky8"
+      }
+    },
+    "020": {
+      "title": "The New Teen Titans Vol.1 #20",
+      "last_updated": "1786508978",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4ndqvlwyn"
+      }
+    },
+    "021": {
+      "title": "Tales of The New Teen Titans #1",
+      "last_updated": "1786508989",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4j25ew578"
+      }
+    },
+    "022": {
+      "title": "Tales of The New Teen Titans #2",
+      "last_updated": "1786508999",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd83qpd4k"
+      }
+    },
+    "023": {
+      "title": "Tales of The New Teen Titans #3",
+      "last_updated": "1786509011",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7mqja2qyd"
+      }
+    },
+    "024": {
+      "title": "Tales of The New Teen Titans #4",
+      "last_updated": "1786509026",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87w589r37x"
+      }
+    },
+    "025": {
+      "title": "The New Teen Titans Vol.1 #21",
+      "last_updated": "1786509030",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/lqye5wdpxyd"
+      }
+    },
+    "026": {
+      "title": "The New Teen Titans Vol.1 #22",
+      "last_updated": "1786509041",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny8kreopyb"
+      }
+    },
+    "027": {
+      "title": "The New Teen Titans Vol.1 #23",
+      "last_updated": "1786509056",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/o24aed2vg7l"
+      }
+    },
+    "028": {
+      "title": "The New Teen Titans Vol.1 #24",
+      "last_updated": "1786509065",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9249bm2gvyn"
+      }
+    },
+    "029": {
+      "title": "The New Teen Titans Vol.1 #25",
+      "last_updated": "1786509070",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7bzrlvk75"
+      }
+    },
+    "030": {
+      "title": "The New Teen Titans Vol.1 Annual #1",
+      "last_updated": "1786509103",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kl2aeky8"
+      }
+    },
+    "031": {
+      "title": "The New Teen Titans Vol.1 #26",
+      "last_updated": "1786509092",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd83qad4k"
+      }
+    },
+    "032": {
+      "title": "The New Teen Titans Vol.1 #27",
+      "last_updated": "1786509102",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrw3a8k7p"
+      }
+    },
+    "033": {
+      "title": "The New Teen Titans Vol.1 #28",
+      "last_updated": "1786509094",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7mqjakqyd"
+      }
+    },
+    "034": {
+      "title": "The New Teen Titans Vol.1 #29",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "035": {
+      "title": "The New Teen Titans Vol.1 #30",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "036": {
+      "title": "The New Teen Titans Vol.1 #31",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "037": {
+      "title": "The New Teen Titans Vol.1 #32",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "038": {
+      "title": "The New Teen Titans Vol.1 #33",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "039": {
+      "title": "The New Teen Titans Vol.1 #34",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "040": {
+      "title": "The New Teen Titans Vol.1 Annual #2",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "041": {
+      "title": "The New Teen Titans Vol.1 #35",
+      "last_updated": "1786509176",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/md7ordaea7p"
+      }
+    },
+    "042": {
+      "title": "The New Teen Titans Vol.1 #36",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "043": {
+      "title": "The New Teen Titans Vol.1 #37",
+      "last_updated": "1786509179",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pmrak87o"
+      }
+    },
+    "045": {
+      "title": "The New Teen Titans Vol.1 #38",
+      "last_updated": "1786509164",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7bzrl2k75"
+      }
+    },
+    "046": {
+      "title": "The New Teen Titans Vol.1 #39",
+      "last_updated": "1786508230",
+      "groups": {}
+    },
+    "047": {
+      "title": "The New Teen Titans Vol.1 #40",
+      "last_updated": "1786508230",
+      "groups": {}
     }
   }
 }
